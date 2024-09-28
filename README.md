@@ -5,7 +5,7 @@ A programming software engineer. 👻
 一个一直在学习路上的软件工程师。
 
 * 👋 Hi, I’m 猫东东@afyi
-* 📝 Blog: <https://blog.del.pub>
+* 📝 Blog: <https://del.pub>
 * 👀 目前就职于：「西安酷飞软件」 <https://kufeisoft.com>
 * ❤️ 赞赏：<https://del.pub/donate> 
 
